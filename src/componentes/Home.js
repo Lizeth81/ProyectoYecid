@@ -25,7 +25,8 @@ const Home = () => (
           <Title/>
         </Header>
         <Content className="contentStyle">
-          <Profile/>
+         {/* <Profile/>*/}
+          <Grade_job_table/>
         </Content>
         <Footer className="footerStyle">
           <FooterLayouts/>
