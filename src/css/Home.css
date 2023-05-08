@@ -1,0 +1,29 @@
+.headerStyle{
+    text-Align: center;
+    height: 64;
+    padding-Inline: 50;
+    line-Height: 64px;
+    background-Color: #ffff;
+  }
+  .contentStyle{
+    min-Height: 120;
+    line-Height: 120px;
+  }
+  .siderStyle{
+    line-Height: 120px;
+    height: 100%;
+    background: 'rgba(255, 255, 255, 0.2)',
+  }
+  .footerStyle{
+    text-Align: center;
+  }
+  .TitletStyle{
+    font-family: georgia;
+    text-Align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-variant: normal;
+    vertical-align: middle;
+    line-height: normal;
+  }
+  
