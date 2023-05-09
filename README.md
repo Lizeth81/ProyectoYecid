@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <br>
+  Validacion del trabajo de grado 
+  <br>
+</h1>
+<br>
+<p align="center">
+        <a href="https://es.react.dev/" target="_new"> <i class="fab fa-java"></i>  <img src="https://img.shields.io/badge/React-v18-blue" alt="React"></a>
+        <a href="https://lenguajejs.com/javascript/" target="_new"><img src="https://img.shields.io/badge/JavaScript-JavaScript-Orange" alt="JavaScript Version"></a>        
+        <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_new"><img src="https://img.shields.io/badge/Html-Html-blue" alt="Html Version"></a>
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_new"><img src="https://img.shields.io/badge/Css-Css-green" alt="Css Version"></a>        
+        <a href="https://nodejs.org/download/release/v16.19.1/" target="_new"><img src="https://img.shields.io/badge/Node.js-v16-green" alt="Node js Version"></a>       
+</p>
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#descripcion">Descripción</a> •
+  <a href="#dependencias">Dependencias</a> •
+  <a href="#colaboradores">Colaboradores</a> •
+  <a href="#versiones">Versiones</a> •
+</p>
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Dependencias
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+El proyecto base se encuentra desarrollado sobre la versión 18.2.0 de React, para las dependencias de __Desarollo__ del proyecto se presenta en la siguiente tabla cuales son las utilizadas:
 
-### `npm test`
+| Dependencia | Versión |
+| ----------- | ------- |
+| @ant-design/icons |  ^5.0.1 |
+| @testing-library/jest-dom | ^5.16.5 |
+| @testing-library/react | ^13.4.0 |
+| @testing-library/user-event | ^13.5.0 |
+| antd | ^13.5.0 |
+| react | ^18.2.0 |
+| react-dom | ^18.2.0 |
+| react-router | ^6.11.0 |
+| react-router-dom | ^6.11.1 |
+| react-scripts | 5.0.1 |
+| web-vitals | ^2.1.4 |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Colaboradores
 
-### `npm run build`
+<br>
+  <p>Agradecemos a las siguientes personas por su contribución a este proyecto:</p>
+  <div >
+  <table>
+  <tr>
+    <td align="center">
+      <a  target="_blank" href="https://github.com/Lizeth81"><img src="https://avatars.githubusercontent.com/u/106117150?s=400&u=2b3deae458191296f125184fd3d94dda94515c46&v=4" width="80px;" alt="Foto de perfil de Lizeth Paola Prado"/><br/><p><span>Lizeth Prado</span></p></a>
+    </td>
+  </table>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Versiones
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  [v0.0.1]() Versión inicial del proyecto.
