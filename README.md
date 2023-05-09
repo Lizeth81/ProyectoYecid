@@ -52,6 +52,9 @@ El proyecto base se encuentra desarrollado sobre la versión 18.2.0 de React, pa
     <td align="center">
       <a  target="_blank" href="https://github.com/Lizeth81"><img src="https://avatars.githubusercontent.com/u/106117150?s=400&u=2b3deae458191296f125184fd3d94dda94515c46&v=4" width="80px;" alt="Foto de perfil de Lizeth Paola Prado"/><br/><p><span>Lizeth Prado</span></p></a>
     </td>
+     <td align="center">
+      <a  target="_blank" href="https://github.com/PimientoJ"><img src="https://avatars.githubusercontent.com/u/106353349?s=400&v=4" width="80px;" alt="Foto de perfil de Yecid Pimiento"/><br/><p><span>Yecid Pimiento</span></p></a>
+    </td>
   </table>
 
 ## Versiones
